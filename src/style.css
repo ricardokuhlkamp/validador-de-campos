@@ -1,0 +1,22 @@
+h1 {  
+  text-align: center;
+}
+
+form {
+  display: flex;
+  justify-content: space-between;
+  width: 400px;
+  margin: 0 auto;
+}
+
+p {
+  text-align: center;
+}
+
+div {
+  background-color: aquamarine;
+  padding: 5px;
+}
+
+
+
