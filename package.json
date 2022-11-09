@@ -1,0 +1,23 @@
+{
+  "name": "validador-de-campos",
+  "version": "1.0.0",
+  "description": "validador de campos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardokuhlkamp/validador-de-campos.git"
+  },
+  "author": "Ricardo Kühlkamp da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricardokuhlkamp/validador-de-campos/issues"
+  },
+  "homepage": "https://github.com/ricardokuhlkamp/validador-de-campos#readme",
+  "dependencies": {
+    "validator": "^13.7.0",
+    "vite": "^3.2.3"
+  }
+}
